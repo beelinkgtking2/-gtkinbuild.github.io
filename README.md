@@ -1,1 +1,1 @@
-# gtkingbuild.github.io
+# beelinkgtking2.github.io
