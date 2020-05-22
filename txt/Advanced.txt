@@ -1,0 +1,6 @@
+name="Buffer Kodi 18"
+section="yes"
+url="https://beelinkgtking2.github.io/txt/Buffer-leia.txt"
+icon="https://stva.zriel.net/wizard/imagenes/buffer.png" 
+fanart="https://stva.zriel.net/wizard/imagenes/fanart.jpg"
+description="Kodi 18 Leia"
