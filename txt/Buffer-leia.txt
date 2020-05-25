@@ -20,7 +20,7 @@ icon="https://stva.zriel.net/wizard/imagenes/buffer.png"
 fanart="https://stva.zriel.net/wizard/imagenes/fanart.jpg"
 description="Advanced Settings"
 
-name="+3GB de RAM"
+name="3+GB de RAM"
 section="no"
 url="https://beelinkgtking2.github.io/buffer/3Gb-Ram.xml"
 icon="https://stva.zriel.net/wizard/imagenes/buffer.png" 
