@@ -7,11 +7,9 @@
  
  
 [COLOR lime][B]ACTUALIZACIONES:[/B][/COLOR]
-[COLOR gold]04/08/2020 Nueva base para la Nueva Build GTKing Prime v3.0[/COLOR]
+[COLOR gold]04/08/2020 Nueva base para la Nueva Build GTKing Prime v3.0 y Parche 3.1[/COLOR]
 - Mejoras externas. 
 - Mejoras internas.
-
-[COLOR gold]04/08/2020 Nueva actualización v3.0[/COLOR]
 - Actualizado instalador a la V2.2.0. 
 - Nuevos widgets de la videoteca de KODI en la misma sección videoteca. 
 - Nuevos iconos en el menú de ajustes. 
