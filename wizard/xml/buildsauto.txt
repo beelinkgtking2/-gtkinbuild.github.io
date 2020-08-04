@@ -17,7 +17,7 @@ description="Build GTKing Prime con muchos contenidos"
 
 name="PARCHE Para GTKING PRIME"
 version="3.1"
-url="https://bit.ly/33ovh83"
+url="https://"
 gui=""
 kodi="16"
 theme="http://"
