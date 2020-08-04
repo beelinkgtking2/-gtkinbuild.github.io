@@ -1,16 +1,31 @@
 1
 |||
-[COLOR lime][B]4/8/20 - PARCHE Cambios GTKING Prime v3.1[/B][/COLOR]
-[COLOR white]– Cambiado icono MediaExplorer de Películas y Series de TORRENT
-– Cambiados enlaces de Televisión..[/COLOR]
+[COLOR lime][B]BUILD Y PARCHE GTKING PRIME[/B][/COLOR]
+- [COLOR darkorchid][B]Si os salta una Notificación de actualización pulsar en[/B][/COLOR] [COLOR dodgerblue][B]ACTUALIZAR[/B][/COLOR]
 
+- [COLOR red][B]ATENCIÓN:[/B][/COLOR] Si pulsas en [COLOR green][B]Instalar Build[/B][/COLOR] es instalar desde 0.
+ 
+ 
+[COLOR lime][B]ACTUALIZACIONES:[/B][/COLOR]
+[COLOR gold]04/08/2020 Nueva base para la Nueva Build GTKing Prime v3.0[/COLOR]
+- Mejoras externas. 
+- Mejoras internas.
 
-[B]SI TIENES DUDAS, EN EL GRUPO TELEGRAM TIENES TODA LA INFORMACION:[/B]
-- consejos-gtking
-- parches-gtking
-- instalacion-gtking
-- dudas-gtking
-- Tienes toda la información necesaria para instalar y usar GTKING.
+[COLOR gold]04/08/2020 Nueva actualización v3.0[/COLOR]
+- Actualizado instalador a la V2.2.0. 
+- Nuevos widgets de la videoteca de KODI en la misma sección videoteca. 
+- Nuevos iconos en el menú de ajustes. 
+- 2 Nuevos wallpapers.
+- Redireccionados los atajos de las agendas deportivas.
+- Redireccionados los atajos de películas de Netflix y Disney+.[/COLOR]
 
-[COLOR dodgerblue][B]gtking[/B][/COLOR]
-Tambien puedes entrar al canal de telegram [COLOR green]t.me/beelinkgtking[/COLOR]
+[COLOR lime][B]SI TIENES DUDAS, PUEDES ENCONTRARNOS EN TELEGRAM[/COLOR] [COLOR dodgerblue]@beelinkking[/B][/COLOR]
+ 
+[COLOR white]- Manuales de Configuracion
+- Video Tutoriales
+- Ayuda Sobre kodi[/COLOR]
+ 
+ 
+[COLOR dodgerblue]https://t.me/beelinkking[/COLOR]
+ 
+[COLOR lime][B]GRACIAS POR UTILIZAR GTKING PRIME![/B]
