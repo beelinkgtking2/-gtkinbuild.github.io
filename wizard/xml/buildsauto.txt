@@ -4,7 +4,7 @@ zip="https://beelinkgtking2.github.io/addons.de.programa/plugin.program.gtking.z
 
 name="BUILD GTKING PRIME"
 version="3.0.1"
-url="https://bit.ly/39SPxQq"
+url="https://bit.ly/3jQ9hIh"
 gui=""
 kodi="18"
 theme="http://"
@@ -17,7 +17,7 @@ description="Build GTKing Prime con muchos contenidos"
 
 name="PARCHE Para GTKING PRIME"
 version="3.1.1"
-url="https://bit.ly/33ovh83"
+url="https://bit.ly/3gYW8Lj"
 gui=""
 kodi="16"
 theme="http://"
