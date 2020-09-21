@@ -7,15 +7,9 @@
  
  
 [COLOR lime][B]ACTUALIZACIONES:[/B][/COLOR]
-[COLOR gold]04/08/2020 Nueva base para la Nueva Build GTKing Prime v3.0 y Parche 3.1[/COLOR]
-- Mejoras externas. 
-- Mejoras internas.
-- Actualizado instalador a la V2.2.0. 
-- Nuevos widgets de la videoteca de KODI en la misma sección videoteca. 
-- Nuevos iconos en el menú de ajustes. 
-- 2 Nuevos wallpapers.
-- Redireccionados los atajos de las agendas deportivas.
-- Redireccionados los atajos de películas de Netflix y Disney+.[/COLOR]
+[COLOR gold]05/09/2020 Nueva base para la Nueva Build GTKing Prime v3.0.1 y Parche 3.1.1[/COLOR]
+- Traducción del menú de reproducción del contenido de los destacados.  
+- Cambios en atajos en la sección cine y televisión.[/COLOR]
 
 [COLOR lime][B]SI TIENES DUDAS, PUEDES ENCONTRARNOS EN TELEGRAM[/COLOR] [COLOR dodgerblue]@beelinkking[/B][/COLOR]
  
