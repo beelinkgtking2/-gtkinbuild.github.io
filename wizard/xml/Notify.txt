@@ -7,7 +7,7 @@
  
  
 [COLOR lime][B]ACTUALIZACIÓN:[/B][/COLOR]
-[COLOR gold]02/10/2020 Actualización de la Build GTKing Prime a a versión v3.1 y Parche 3.2[/COLOR]
+[COLOR gold]02/10/2020 Actualización de la Build GTKing Prime a la versión v3.1 y Parche 3.2[/COLOR]
 - Cambiado al idioma español en el ajuste en el addon TheMoviedb Helper
 - Fix error en menú de reproducción de la sección destacados.
 - Redirigida la url de la lista de PVR.
