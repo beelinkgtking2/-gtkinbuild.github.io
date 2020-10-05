@@ -6,10 +6,16 @@
 - [COLOR red][B]ATENCIÓN:[/B][/COLOR] Si pulsas en [COLOR green][B]Instalar Build[/B][/COLOR] es instalar desde 0.
  
  
-[COLOR lime][B]ACTUALIZACIONES:[/B][/COLOR]
-[COLOR gold]05/09/2020 Nueva base para la Nueva Build GTKing Prime v3.0.1 y Parche 3.1.1[/COLOR]
-- Traducción del menú de reproducción del contenido de los destacados.  
-- Cambios en atajos en la sección cine y televisión.[/COLOR]
+[COLOR lime][B]ACTUALIZACIÓN:[/B][/COLOR]
+[COLOR gold]02/10/2020 Actualización de la Build GTKing Prime a la versión v3.1 y Parche 3.2[/COLOR]
+- Cambiado al idioma español en el ajuste en el addon TheMoviedb Helper
+- Fix error en menú de reproducción de la sección destacados.
+- Redirigida la url de la lista de PVR.
+- Añadidos los addons TV-Chopo, Tacones y el script Open Info para ver la información extendida de las películas. 
+- Eliminado el addon RobTv, The Crew y TVone11 (por estar caída su lista para Spain TV).... R.I.P
+- Añadido addon y atajo a TVtap, añadidas listas de TV-Chopo, redireccionado el atajo a listas Chikiry.
+- Añadidos nuevos atajos, Deportes Chopo y Canales Mundo-Deporte con canales internacionales en la sección deportes.
+- Añadido atajo a Supercine Cristal Tendencias y cambios en atajos en la sección cine 4K Palantir por 4K Tacones (mientras no se arregle) y Supercine Cristal.[/COLOR]
 
 [COLOR lime][B]SI TIENES DUDAS, PUEDES ENCONTRARNOS EN TELEGRAM[/COLOR] [COLOR dodgerblue]@beelinkking[/B][/COLOR]
  
