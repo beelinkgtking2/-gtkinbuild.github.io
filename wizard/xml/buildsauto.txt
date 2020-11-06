@@ -1,6 +1,6 @@
 id="plugin.program.gtking.zip"
-version="2.2.0"
-zip="https://beelinkgtking2.github.io/addons.de.programa/plugin.program.gtking.zip"
+version="2.2.5"
+zip="https://beelinkgtking2.github.io/addons.de.programa/plugin.program.gtking.zip-2.2.4"
 
 name="BUILD GTKING PRIME"
 version="3.5.0"
