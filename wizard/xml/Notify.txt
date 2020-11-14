@@ -7,13 +7,15 @@
  
  
 [COLOR lime][B]ACTUALIZACIÓN:[/B][/COLOR]
-[COLOR gold]06/11/2020 Nueva actualización v3.5.0 y Parche 3.5.1[/COLOR]
+[COLOR gold]14/11/2020 Nueva actualización v3.6.0 y Parche 3.6.1[/COLOR]
 - Añadido el motor torrent Elementum en el menú de builds y parches de GTKing Wizard.
 - Añadido addon Palantir 2 con iconos abstractos.
 - Añadida sección Chopo Footters.
 - Añadido servicio de subtitulos de OpenSubtitles.
 - Cambiada versión de TheMovieDb Helper por problemas con widgets Destacados.
 - Cambiados colores del texto de algunos addons desde la skin para visualizarlos mejor.[/COLOR]
+[COLOR gold]14/11/2020 Estreno build GTactil King[/COLOR]
+- Iniciada la versión táctil de la build GTKing Prime. 
 
 [COLOR lime][B]SI TIENES DUDAS, PUEDES ENCONTRARNOS EN TELEGRAM[/COLOR] [COLOR dodgerblue]@beelinkking[/B][/COLOR]
  
