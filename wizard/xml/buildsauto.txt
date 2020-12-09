@@ -17,7 +17,7 @@ description="Build GTKing Prime con muchos contenidos"
 
 name="GTactil King"
 version="1.0"
-url="https://bit.ly/3pwGufp"
+url="https://bit.ly/36YLG4I"
 gui=""
 kodi="18"
 theme="http://"
