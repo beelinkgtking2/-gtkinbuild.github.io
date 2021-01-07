@@ -7,9 +7,9 @@
  
  
 [COLOR lime][B]ACTUALIZACIÓN:[/B][/COLOR]
-[COLOR gold]23/12/2020 Actualización Prime v.3.8.0.1 y GTactil 1.0.1
+[[COLOR gold]07/01/20201 Actualización Prime v.3.8.0.1 y GTactil 1.0.1
 - Redirigidos varios atajos.
-- Añadido addon Oldqueen. 
+- Añadido addon Oldqueen.
 
 23/12/2020 Actualización Prime v.3.8.0 y Parche 3.8.2
 - Eliminado addon Mediaexplorer.
@@ -29,7 +29,8 @@
 - Añadido servicio de subtitulos de OpenSubtitles.
 - Cambiada versión de TheMovieDb Helper por problemas con widgets Destacados.
 - Cambiados colores del texto de algunos addons desde la skin para visualizarlos mejor.[/COLOR]
-[COLOR gold]14/11/2020 Estreno build GTactil King[/COLOR]
+
+14/11/2020 Estreno build GTactil King.
 - Iniciada la versión táctil de la build GTKing Prime. 
 
 [COLOR lime][B]SI TIENES DUDAS, PUEDES ENCONTRARNOS EN TELEGRAM[/COLOR] [COLOR dodgerblue]@beelinkking[/B][/COLOR]
