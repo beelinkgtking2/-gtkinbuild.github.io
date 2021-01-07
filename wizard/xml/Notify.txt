@@ -7,7 +7,11 @@
  
  
 [COLOR lime][B]ACTUALIZACIÓN:[/B][/COLOR]
-[COLOR gold]23/12/2020 Actualización Prime v.3.8.0 y Parche 3.8.2
+[COLOR gold]23/12/2020 Actualización Prime v.3.8.0.1 y GTactil 1.0.1
+- Redirigidos varios atajos.
+- Añadido addon Oldqueen. 
+
+23/12/2020 Actualización Prime v.3.8.0 y Parche 3.8.2
 - Eliminado addon Mediaexplorer.
 - Añadidos addons Chopo Cine y Chopo series.
 - Cambiado destacados de películas por Palantir Novedades (PRIME).
