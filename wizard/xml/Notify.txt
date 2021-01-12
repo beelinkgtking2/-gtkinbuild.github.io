@@ -7,7 +7,7 @@
  
  
 [COLOR lime][B]ACTUALIZACIÓN:[/B][/COLOR]
-12/01/20201 Actualización Prime v.3.8.2 y GTactil 1.0.2
+12/01/20201 Actualización Prime v.3.8.6 y GTactil 1.5
 - Eliminado addon Torrenter por incompatibilidad con Alfa y Elementum.
 
 07/01/20201 Actualización Prime v.3.8.0.1 y GTactil 1.0.1
