@@ -7,30 +7,33 @@
  
  
 [COLOR lime][B]ACTUALIZACIÓN:[/B][/COLOR]
-[[COLOR gold]07/01/20201 Actualización Prime v.3.8.0.1 y GTactil 1.0.1
+[COLOR gold]12/01/20201 Actualización Prime v.3.8.2 y GTactil 1.0.2[/COLOR]
+- Eliminado addon Torrenter por incompatibilidad con Alfa y Elementum.
+
+[COLOR gold]07/01/20201 Actualización Prime v.3.8.0.1 y GTactil 1.0.1[/COLOR]
 - Redirigidos varios atajos.
 - Añadido addon Oldqueen.
 
-23/12/2020 Actualización Prime v.3.8.0 y Parche 3.8.2
+[COLOR gold]23/12/2020 Actualización Prime v.3.8.0 y Parche 3.8.2[/COLOR]
 - Eliminado addon Mediaexplorer.
 - Añadidos addons Chopo Cine y Chopo series.
 - Cambiado destacados de películas por Palantir Novedades (PRIME).
 - Redireccionado atajo torrents HD a Cristal Torrents.
 - Reparados varios atajos
-‌- Series Netflix, Movistar y Amazon ahora son de Tvchopo. 
-- Redirigidos atajos averiados en sección ‌PELÍCULAS y SERIES. 
+- Series Netflix, Movistar y Amazon ahora son de Tvchopo. 
+- Redirigidos atajos averiados en sección PELÍCULAS y SERIES. 
 - Redirigido atajo chopo deportes
 - Arreglados varios widgets de ambas builds.
 
-14/11/2020 Nueva actualización v3.6.0 y Parche 3.6.1[/COLOR]
+[COLOR gold]14/11/2020 Nueva actualización v3.6.0 y Parche 3.6.1[/COLOR]
 - Añadido el motor torrent Elementum en el menú de builds y parches de GTKing Wizard.
 - Añadido addon Palantir 2 con iconos abstractos.
 - Añadida sección Chopo Footters.
 - Añadido servicio de subtitulos de OpenSubtitles.
 - Cambiada versión de TheMovieDb Helper por problemas con widgets Destacados.
-- Cambiados colores del texto de algunos addons desde la skin para visualizarlos mejor.[/COLOR]
+- Cambiados colores del texto de algunos addons desde la skin para visualizarlos mejor.
 
-14/11/2020 Estreno build GTactil King.
+[COLOR gold]14/11/2020 Estreno build GTactil King.[/COLOR]
 - Iniciada la versión táctil de la build GTKing Prime. 
 
 [COLOR lime][B]SI TIENES DUDAS, PUEDES ENCONTRARNOS EN TELEGRAM[/COLOR] [COLOR dodgerblue]@beelinkking[/B][/COLOR]
