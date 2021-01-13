@@ -7,14 +7,14 @@
  
  
 [COLOR lime][B]ACTUALIZACIÓN:[/B][/COLOR]
-[COLOR gold]12/01/20201 Actualización Prime v.3.8.6 y GTactil 1.5
+[COLOR gold]12/01/20201 Actualización Prime v.3.8.6 y GTactil 1.5[/COLOR]
 - Eliminado addon Torrenter por incompatibilidad con Alfa y Elementum.
 
-07/01/20201 Actualización Prime v.3.8.0.1 y GTactil 1.0.1
+[COLOR gold]07/01/20201 Actualización Prime v.3.8.0.1 y GTactil 1.0.1[/COLOR]
 - Redirigidos varios atajos.
 - Añadido addon Oldqueen.
 
-23/12/2020 Actualización Prime v.3.8.0 y Parche 3.8.2
+[COLOR gold]23/12/2020 Actualización Prime v.3.8.0 y Parche 3.8.2[/COLOR]
 - Eliminado addon Mediaexplorer.
 - Añadidos addons Chopo Cine y Chopo series.
 - Cambiado destacados de películas por Palantir Novedades (PRIME).
@@ -25,7 +25,7 @@
 - Redirigido atajo chopo deportes
 - Arreglados varios widgets de ambas builds.
 
-14/11/2020 Nueva actualización v3.6.0 y Parche 3.6.1[/COLOR]
+[COLOR gold]14/11/2020 Nueva actualización v3.6.0 y Parche 3.6.1[/COLOR]
 - Añadido el motor torrent Elementum en el menú de builds y parches de GTKing Wizard.
 - Añadido addon Palantir 2 con iconos abstractos.
 - Añadida sección Chopo Footters.
@@ -45,4 +45,4 @@
  
 [COLOR dodgerblue]https://t.me/beelinkking[/COLOR]
  
-[COLOR lime][B]GRACIAS POR UTILIZAR GTKING PRIME![/B]
+[COLOR lime][B]GRACIAS POR UTILIZAR GTKING PRIME![/B][/COLOR]
