@@ -7,6 +7,15 @@
  
  
 [COLOR lime][B]ACTUALIZACIÓN:[/B][/COLOR]
+[COLOR gold]16/02/20201 Actualización Prime v.3.9.1 y GTactil 2.1[/COLOR]
+- Redirigidos atajos Listas Chikiry y Magellan. 
+- Redirigidos atajos en películas y series.
+- Redirigidos atajos de buscadores de Cristal.
+- Cambiado atajo de series AMC por the CW.
+- Añadido botón actualizar videoteca de kodi (Prime). 
+- Añadido addon Winner Sports.
+- Estilo widget series tendencias cambiado a Poster (Prime).
+
 [COLOR gold]12/01/20201 Actualización Prime v.3.8.6 y GTactil 1.5[/COLOR]
 - Eliminado addon Torrenter por incompatibilidad con Alfa y Elementum.
 
