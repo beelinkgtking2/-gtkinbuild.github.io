@@ -1,24 +1,24 @@
 {
     "presets": [
         {
-            "name": "Default Network & Cache Settings",
-            "url": "https://raw.githubusercontent.com/a4k-openproject/repository.openwizard/master/presets/default_cache_preset.xml",
-            "description": "This preset will restore the default settings for the 'network' and 'cache' categories."
+            "name": "[B]Por ROM[/B]",
+            "url": "https://github.com/beelinkgtking2/beelinkgtking2.github.io/blob/master/buffer/ROM.xml",
+            "description": "Este ajuste utiliza la memoria ROM como buffer, ideal para dispositivos con gran capacidad de memoria externa."
         },
         {
-            "name": "Zero Cache Preset",
-            "url": "https://raw.githubusercontent.com/a4k-openproject/repository.openwizard/master/presets/zero_cache_preset.xml",
-            "description": "This preset will enable 'zero cache' on your device. [B]DO NOT[/B] use this preset on devices with low amounts of free storage, or that have flash storage. [B]It is only safe[/B] to use on devices with hard drives."
+            "name": "[B]1Gb de RAM[/B]",
+            "url": "https://github.com/beelinkgtking2/beelinkgtking2.github.io/blob/master/buffer/1Gb-Ram.xml",
+            "description": "Este ajuste es para dispositivos poco potentes y de hasta 2Gb de RAM máximo."
         },
         {
-            "name": "Low-RAM Device Preset",
-            "url": "https://raw.githubusercontent.com/a4k-openproject/repository.openwizard/master/presets/low_ram_preset.xml",
-            "description": "This preset can be used on devices with less than 2GB of RAM, like Amazon Fire Sticks."
+            "name": "[B]2Gb de RAM[/B]",
+            "url": "https://github.com/beelinkgtking2/beelinkgtking2.github.io/blob/master/buffer/2Gb-Ram.xml",
+            "description": "Este ajuste es para dispositivos de hasta 3Gb de Ram máximo."
         },
         {
-            "name": "High-End Device Preset",
-            "url": "https://raw.githubusercontent.com/a4k-openproject/repository.openwizard/master/presets/high_end_preset.xml",
-            "description": "This preset can be used on devices with more than 2GB of RAM, like the Nvidia Shield."
+            "name": "[B]+3Gb de RAM[/B]",
+            "url": "https://github.com/beelinkgtking2/beelinkgtking2.github.io/blob/master/buffer/3Gb-Ram.xml",
+            "description": "Este ajuste es para dispositivos potentes y de más de 3Gb de RAM."
         }
     ]
 }
