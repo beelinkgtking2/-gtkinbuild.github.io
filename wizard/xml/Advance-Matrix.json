@@ -2,7 +2,7 @@
     "presets": [
         {
             "name": "[B]Por ROM[/B]",
-            "section": true,
+            "section": false,
             "url": "https://raw.githubusercontent.com/beelinkgtking2/beelinkgtking2.github.io/master/buffer/ROM.xml",
             "icon": "https://i.imgur.com/78LMRnT.png",
             "fanart": "https://i.imgur.com/jtTx5ME.jpg",
@@ -10,7 +10,7 @@
         },
         {
             "name": "[B]1Gb de RAM[/B]",
-            "section": true,
+            "section": false,
             "url": "https://raw.githubusercontent.com/beelinkgtking2/beelinkgtking2.github.io/master/buffer/1Gb-Ram.xml",
             "icon": "https://i.imgur.com/78LMRnT.png",
             "fanart": "https://i.imgur.com/jtTx5ME.jpg",
@@ -18,7 +18,7 @@
         },
         {
             "name": "[B]2Gb de RAM[/B]",
-            "section": true,
+            "section": false,
             "url": "https://raw.githubusercontent.com/beelinkgtking2/beelinkgtking2.github.io/master/buffer/2Gb-Ram.xml",
             "icon": "https://i.imgur.com/78LMRnT.png",
             "fanart": "https://i.imgur.com/jtTx5ME.jpg",
@@ -26,7 +26,7 @@
         },
         {
             "name": "[B]+3Gb de RAM[/B]",
-            "section": true,
+            "section": false,
             "url": "https://raw.githubusercontent.com/beelinkgtking2/beelinkgtking2.github.io/master/buffer/3Gb-Ram.xml",
             "icon": "https://i.imgur.com/78LMRnT.png",
             "fanart": "https://i.imgur.com/jtTx5ME.jpg",
