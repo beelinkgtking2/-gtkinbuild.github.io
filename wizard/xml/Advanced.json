@@ -2,7 +2,7 @@
     "presets": [
         {
             "name": "[COLOR red][B]Buffer Kodi 19 Matrix[/B][/COLOR]",
-            "section": true,
+            "section": false,
             "url": "https://raw.githubusercontent.com/beelinkgtking2/beelinkgtking2.github.io/master/xml/Advanced-Matrix.json",
             "icon": "https://i.imgur.com/78LMRnT.png",
             "fanart": "https://i.imgur.com/jtTx5ME.jpg",
